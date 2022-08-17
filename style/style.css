@@ -59,12 +59,14 @@
     letter-spacing: 0.1em;
     margin-right: 42px;
     text-decoration: none;
-    color: #000000;  
+    color: #000000;
+    font-weight: 400;  
 }
 
 .header_menu .active 
 {
     color: #34547A;
+    font-weight: 500;  
 }
 
 .background{
@@ -98,6 +100,7 @@
 .size_info
 {
     padding: 60px 0 65px 0 ;
+    width: 540px;
 }
 
 .button
@@ -131,6 +134,8 @@
     padding-top: 50px;
     text-align: center;
     color: #727272;
+    width: 520px;
+    margin: 0 auto;
 }
 
 .card_size_and_background
@@ -154,7 +159,6 @@ padding-left: 48.33px;
 {
     display: inline-block;
     width: 84px;
-    height: 50px;
     vertical-align: top;
     padding-left: 20px;
 }
@@ -164,7 +168,7 @@ padding-left: 48.33px;
     font-family: "Roboto-Medium";
     font-style: normal;
     font-size: 21px;
-    line-height: 19px;
+    line-height: 25px;
     color: #FFFFFF;
 }
 
